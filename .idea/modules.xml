@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RSI2.iml" filepath="$PROJECT_DIR$/RSI2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MojSerwerRMI.iml" filepath="$PROJECT_DIR$/MojSerwerRMI.iml" />
     </modules>
   </component>
 </project>
